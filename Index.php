@@ -1,5 +1,5 @@
 <?php
-// Importo lo "strato dati"
+
 require __DIR__ . '/data.php';
 ?>
 <!DOCTYPE html>
